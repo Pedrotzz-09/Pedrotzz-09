@@ -1,6 +1,6 @@
 ### <div align="center"> Hey, I'm Pedro, this is my README, glad you're here! :D
   <hr>
-<div align="center"> <h3>My tools & skills:
+<div align="center"> <h2>My tools & skills:
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -10,11 +10,11 @@
   <br>
 <div align="center">
   <a href="https://github.com/Pedrotzz-09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotzz-09&theme=blue-green"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrotzz-09&theme=blue-green"/>
 </div>
   <hr>
   
-<div align="center"> <h4>Social Media:
+<div align="center"> Social Media:
 <div align="center">
   <br>
   <a href="/PewPew#5281" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
